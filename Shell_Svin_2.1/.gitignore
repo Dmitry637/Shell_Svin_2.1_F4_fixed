@@ -1,0 +1,7 @@
+/target/
+/out/
+*.class
+*.log
+.idea/
+.vscode/
+.DS_Store
